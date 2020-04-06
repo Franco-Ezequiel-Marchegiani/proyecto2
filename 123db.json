@@ -17,7 +17,7 @@ this.setState({
                     {
                         id:3,
                         nombre:"Luis",
-                        apellido: "Bolañeos",
+                        apellido: "BolaÃ±eos",
                         foto: "../img/perfil3.jpg"
                         
                     }
