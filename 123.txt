@@ -1,0 +1,24 @@
+this.setState({
+                perfiles:[
+                    {
+                        id:"1",
+                        nombre:"Roberto",
+                        apellido: "Gomez",
+                        foto: "../img/perfil1.jpg"
+                        
+                    },
+                    {
+                        id:2,
+                        nombre:"Raul",
+                        apellido: "Martinez",
+                        foto: "../img/perfil2.jpg"
+                      
+                    },
+                    {
+                        id:3,
+                        nombre:"Luis",
+                        apellido: "Bolañeos",
+                        foto: "../img/perfil3.jpg"
+                        
+                    }
+                ]
