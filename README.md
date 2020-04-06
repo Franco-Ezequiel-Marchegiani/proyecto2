@@ -1,4 +1,4 @@
-this.setState({
+{this.setState({
                 perfiles:[
                     {
                         id:"1",
@@ -19,3 +19,4 @@ this.setState({
                         
                     }
                 ]
+}                
