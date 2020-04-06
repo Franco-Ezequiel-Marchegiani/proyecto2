@@ -1,6 +1,4 @@
-{this.setState({
-                perfiles:[
-                    {
+ {
                         id:"1",
                         nombre:"Roberto Gomez",                       
                         foto: "../img/perfil1.jpg"
@@ -19,4 +17,4 @@
                         
                     }
                 ]
-}                
+            
